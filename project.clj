@@ -1,4 +1,4 @@
-(defproject org.clojars.camdez/clj-pdf-markdown "0.2.2-SNAPSHOT"
+(defproject org.clojars.camdez/clj-pdf-markdown "0.2.2"
   :description "Library for rendering markdown to clj-pdf data-structure syntax (CollBox fork)."
   :url "https://github.com/collbox/clj-pdf-markdown"
   :license {:name "Eclipse Public License"
